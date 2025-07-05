@@ -3,6 +3,8 @@
 ## Original repository is private.
 ## To collaborate, contact with owner.
 
+![LeadingAI-Chat-Page](https://drive.usercontent.google.com/download?id=1_2S_e2F3RS48RRiayEn2WypIQbewvzNA&export=download&authuser=0&confirm=t&uuid=c5dbad1f-e8a9-4cb4-ab0a-9aecad10db44&at=AN8xHoo4E_7Ksfvw687yvbqUYM24:1751736529896)
+
 LeadingAI is a comprehensive AI-powered chat platform designed specifically for Leading University students. Built with Next.js, Express.js, and Firebase, it provides real-time AI assistance, academic resources, and collaborative features tailored to university life.
 
 ## 🚀 Key Features
