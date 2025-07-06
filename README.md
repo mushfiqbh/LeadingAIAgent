@@ -1,7 +1,7 @@
 # LeadingAI - AI-Powered Chat Platform for University Students
 
 ## Original repository is private.
-## To collaborate, contact with owner.
+## To collaborate, contact with me.
 
 ![LeadingAI-Chat-Page](https://drive.usercontent.google.com/download?id=1_2S_e2F3RS48RRiayEn2WypIQbewvzNA&export=download&authuser=0&confirm=t&uuid=c5dbad1f-e8a9-4cb4-ab0a-9aecad10db44&at=AN8xHoo4E_7Ksfvw687yvbqUYM24:1751736529896)
 
