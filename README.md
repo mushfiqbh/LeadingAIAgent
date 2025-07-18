@@ -9,8 +9,6 @@ LeadingAI is a comprehensive AI-powered chat platform designed specifically for 
 
 ## 🚀 Key Features
 
-![FigJam](https://github.com/mushfiqbh/LeadingAIAgent/blob/main/LeadingAIFigJam.png)
-
 ### 💬 AI Chat Assistant
 - Real-time chat with intelligent AI assistant
 - Streaming responses for optimal user experience
